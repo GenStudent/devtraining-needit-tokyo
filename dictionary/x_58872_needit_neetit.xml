@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4208b0d82fcf11107d1e4f2e2c99b60f" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_neetit" type="collection">
+        <element choice="1" label="Nr field1" mandatory="true" max_length="40" name="nr_field1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element label="Nr field2" max_length="40" name="nr_field2" type="string"/>
+    </element>
+</database>
